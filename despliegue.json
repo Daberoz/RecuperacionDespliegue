@@ -1,0 +1,8 @@
+{
+    "name": "recperacionDespliegue",
+    "url" : "https://github.com/Daberoz/RecuperacionDespliegue.git",
+    "port": "8000",
+    "sql" : "./app/database/basededatos.sql"
+   
+
+}
